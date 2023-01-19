@@ -34,3 +34,15 @@ Materials -
 To test the surface material opacity mask, three example masks have been provided. 
 You can find these within Content/Water/Assets/Materials/Textures/Masks,
 or search for 'ExampleMask'. 
+
+
+
+Credits -
+Splash sound effect from the BBC Sound Effect Archive -
+Available at: https://sound-effects.bbcrewind.co.uk/search?durations=0-9&q=water&resultSize=20
+
+Caustics texture from Abode Substance 3D Designer examples -
+Available at: https://substance3d.adobe.com/documentation/sddoc/version-11-2-215286709.html
+
+Other textures avaliable from Ben Cloward youtube - specfically water material tutorials -
+Available at: https://www.youtube.com/@BenCloward
